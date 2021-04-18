@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/fundperf.egg-info/PKG-INFO
+src/fundperf.egg-info/SOURCES.txt
+src/fundperf.egg-info/dependency_links.txt
+src/fundperf.egg-info/requires.txt
+src/fundperf.egg-info/top_level.txt
+test/test_indicators.py

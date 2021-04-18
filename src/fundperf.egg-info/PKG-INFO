@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: fundperf
+Version: 0.0.1
+Summary: High level tools for Performance Analysis and reporting
+Home-page: https://github.com/ahgperrin/fundperf
+Author: Antoine Perrin
+Author-email: antoineperrin.pro2@gmail.com
+License: UNKNOWN
+Description: # FundPerformance
+        
+        This package allows you to calculate a panel of performance indicators.
+        
+        ## Installation Process
+        
+        # STATUS // Under construction :construction:
+        
+        ## Examples
+        
+        # STATUS // Under construction :construction:
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
